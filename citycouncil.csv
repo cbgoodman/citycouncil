@@ -1,0 +1,41 @@
+﻿rank,City,State,pop17,totarea,council
+1,"New York City, NY", New York,8622698,301.5,51
+2,"Los Angeles, CA", California,3999759,468.7,15
+3,"Chicago, IL", Illinois,2716450,227.3,50
+4,"Houston, TX", Texas,2312717,637.5,16
+5,"Phoenix, AZ", Arizona,1626078,517.6,9
+6,"Philadelphia, PA", Pennsylvania,1580863,134.2,17
+7,"San Antonio, TX", Texas,1511946,461,10
+8,"San Diego, CA", California,1419516,325.2,9
+9,"Dallas, TX", Texas,1341075,340.9,14
+10,"San Jose, CA", California,1035317,177.5,11
+11,"Austin, TX", Texas,950715,312.7,10
+12,"Jacksonville, FL", Florida,892062,747.4,19
+13,"San Francisco, CA", California,884363,46.9,11
+14,"Columbus, OH", Ohio,879170,218.5,7
+15,"Fort Worth, TX", Texas,874168,342.9,9
+16,"Indianapolis, IN", Indiana,863002,361.5,25
+17,"Charlotte, NC", North Carolina,859035,305.4,11
+18,"Seattle, WA", Washington,724745,83.8,9
+19,"Denver, CO", Colorado,704621,153.3,13
+20,"Washington, DC", District of Columbia,693972,61.1,13
+21,"Boston, MA", Massachusetts,685094,48.3,13
+22,"El Paso, TX", Texas,683577,256.8,8
+23,"Detroit, MI", Michigan,673104,138.8,9
+24,"Nashville, TN", Tennessee,667560,475.9,40
+25,"Memphis, TN", Tennessee,652236,317.4,13
+26,"Portland, OR", Oregon,647805,133.5,5
+27,"Oklahoma City, OK", Oklahoma,643648,606.3,9
+28,"Las Vegas, NV", Nevada,641676,134.4,7
+29,"Louisville, KY", Kentucky,621349,263.5,26
+30,"Baltimore, MD", Maryland,611648,80.9,15
+31,"Milwaukee, WI", Wisconsin,595351,96.2,15
+32,"Albuquerque, NM", New Mexico,558545,188.2,9
+33,"Tucson, AZ", Arizona,535677,230.8,6
+34,"Fresno, CA", California,527438,114.4,7
+35,"Sacramento, CA", California,501901,97.9,8
+36,"Mesa, AZ", Arizona,496401,137.9,6
+37,"Kansas City, MO", Missouri,488943,315,13
+38,"Atlanta, GA", Georgia,486290,133.5,16
+39,"Long Beach, CA", California,469450,50.3,9
+40,"Omaha, NE", Nebraska,466893,133.2,7

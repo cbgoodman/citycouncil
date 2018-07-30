@@ -1,0 +1,42 @@
+﻿rank,city,province,pop16,council,highlight
+3,"Calgary, AB",Alberta,1239220,14,no
+5,"Edmonton, AB",Alberta,932546,12,no
+35,"Abbotsford, BC",British Columbia,141397,8,no
+22,"Burnaby, BC",British Columbia,232755,8,no
+36,"Coquitlam, BC",British Columbia,139284,8,no
+25,"Richmond, BC",British Columbia,198309,8,no
+12,"Surrey, BC",British Columbia,517887,8,no
+8,"Vancouver, BC",British Columbia,631486,10,no
+7,"Winnipeg, MB",Manitoba,705224,15,no
+14,"Halifax, NS",Nova Scotia,403131,16,no
+34,"Barrie, ON",Ontario,141434,10,no
+9,"Brampton, ON",Ontario,593638,10,no
+28,"Burlington, ON",Ontario,183314,6,no
+40,"Cambridge, ON",Ontario,129920,8,no
+29,"Greater Sudbury, ON",Ontario,161531,12,no
+39,"Guelph, ON",Ontario,131794,12,no
+10,"Hamilton, ON",Ontario,536917,15,no
+21,"Kitchener, ON",Ontario,233222,10,no
+15,"London, ON",Ontario,383822,14,no
+16,"Markham, ON",Ontario,328966,12,no
+6,"Mississauga, ON",Ontario,721599,11,no
+27,"Oakville, ON",Ontario,193832,12,no
+31,"Oshawa, ON",Ontario,159458,10,no
+4,"Ottawa, ON",Ontario,934243,23,no
+26,"Richmond Hill, ON",Ontario,195022,8,no
+38,"St. Catharines, ON",Ontario,133113,12,no
+1,"Toronto, ON (Current)",Ontario,2731571,44,yes
+1,"Toronto, ON (Proposed)",Ontario,2731571,25,yes
+17,"Vaughan, ON",Ontario,306233,8,no
+23,"Windsor, ON",Ontario,217188,8,no
+18,"Gatineau, QC",Quebec,276245,18,no
+13,"Laval, QC",Quebec,422993,21,no
+33,"Lévis, QC",Quebec,143414,15,no
+20,"Longueuil, QC",Quebec,239700,15,no
+2,"Montreal, QC",Quebec,1704694,64,no
+11,"Quebec City, QC",Quebec,531902,21,no
+32,"Saguenay, QC",Quebec,145949,15,no
+30,"Sherbrooke, QC",Quebec,161323,19,no
+37,"Trois-Rivières, QC",Quebec,134413,14,no
+24,"Regina, SK",Saskatchewan,215106,10,no
+19,"Saskatoon, SK",Saskatchewan,246376,10,no
